@@ -16,10 +16,10 @@ SO THAT I can gauge my progress compared to my peers
 
 ```
 
-Once the start button is clicked, the question is presented, and the timer starts
-When a question is answered then another question is presented
+Once the start button is clicked, the question is presented, and the timer starts.
+When a question is answered then another question is presented.
 The time is subtracted from the clock if answer a question incorrectly.
-The game is over when all questions are answered or the timer reaches 0
+The game is over when all questions are answered or the timer reaches 0.
 Initials and score can be saved once the game is over.
 
 ```
